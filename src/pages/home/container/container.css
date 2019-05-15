@@ -1,0 +1,34 @@
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+.imgIsFixed{
+  width: 100%;
+  height:100px;
+}
+.imgFixed{
+  width: 100%;
+  height:100px;
+  position:fixed;
+  top:50px;
+}
+.menu{
+  height: 50px;
+  width: 100%;
+  
+}
+.fixed{
+  position: fixed;
+  top: 48px;
+  width: 100%;
+  height: 100px;
+  z-index: 999;
+  overflow: hidden;
+}
